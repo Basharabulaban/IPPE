@@ -1,10 +1,10 @@
-<img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
+<img src="https://github.com/alfbach/IPPE/blob/master/logo.png" width="450" height="120">
 
 
-# Red Hat OpenShift 4.x Infrastructure Workshop
+# Red Hat Enablement Workshop for IBM Partners
 ## remote version
 
-May 2020
+June 2020
 
 ## Agenda:
 
@@ -13,51 +13,41 @@ May 2020
 
 9:00		Welcome and Intro
 
-		https://www.menti.com/wq7y7j1wjd
+		https://www.menti.com/kro2pkw52z
 		
 
-9:15		OpenShift Architecture Part 1
-
-				Overview / Installation
-
+9:15		
 11:00		BREAK
 
-11:15		OpenShift Architecture Part 2
-
-				Configuration Networking Storage
-
+11:15		
 13:00		BREAK
 
-14:00		CoreOS & CRI-O
+14:00
 
-15:00		Operator Framework
+15:00		
 
-16:00		HandsOn Lab - Learn OpenShift 
+16:00		 
 
-18:00		Open End		
+18:00				
 
 
 ### Day 2:
 
 9:00		Introduction Day2
 
-9:15		OpenShift Advanced Features
-
-				Container Native Virtualisation
-
-				Modern Registry Management (QUAY)				
+9:15		
 
 10:45		BREAK
 
-11:00		Cluster Manager
+11:00		
 
-12:00		OpenShift RoadMap			
+12:00					
 
-12:45		Q&A and Feedback
+12:45		
 
-13:00		BREAK
+13:00		
 
-14:00		HandsOn Lab 
+14:00		 
 
-17:00		End of day two
+17:00		
 
