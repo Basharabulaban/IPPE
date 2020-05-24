@@ -13,7 +13,7 @@ June 2020
 
 9:00		Welcome and Intro
 
-		https://www.menti.com/wq7y7j1wjd
+		https://www.menti.com/kro2pkw52z
 		
 
 9:15		
