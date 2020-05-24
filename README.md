@@ -11,43 +11,40 @@ June 2020
 
 ### Day 1:
 
-9:00		Welcome and Intro
+10:00		Welcome and Intro
 
 		https://www.menti.com/kro2pkw52z
 		
+10:10		Introduction to Red Hat		
+				
+10:45		RH Partner Program
 
-9:15		
-11:00		BREAK
+11:30		LUNCH BREAK		
 
-11:15		
-13:00		BREAK
+12:30		Red Hat Enterprise Linux
 
-14:00
+13:15		Red Hat OpenShift Platform		
 
-15:00		
+13:45		Red Hat Ansible Automation		 
 
-16:00		 
+14:30		Red Hat Solutions for SAP Overview
 
-18:00				
+15:00		Feedback https://www.menti.com/kro2pkw52z
+
+End Day One
 
 
 ### Day 2:
 
-9:00		Introduction Day2
+10:00		RHEL, Insights, SAP
 
-9:15		
+11:00		OpenShift Technical Overview		
 
-10:45		BREAK
+12:30		LUNCH BREAK
 
-11:00		
+13:30		Ansible - Automation		
 
-12:00					
+14:30		Q&A, GLS, OPEN, Learning Path						
 
-12:45		
-
-13:00		
-
-14:00		 
-
-17:00		
+15:00		END of Day 2		
 
